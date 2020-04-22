@@ -1,5 +1,5 @@
 # javastart
-First Java programs
+Start Java programming
 1. Hello, world
 2. Input a string with BuffreredReader
 3. Input a number with BufferedReader
